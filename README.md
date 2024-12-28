@@ -10,8 +10,15 @@ This project was developed as part of my Flutter internship assignment. It inclu
   - Introduces users to Rentkar’s platform with smooth transitions.
   - Features: App Introduction, Key Features, and Mission & Vision.
   
+  ![Onboarding Screen 1](rentkar_app/assets/screenshots/screen1.jpg)
+  ![Onboarding Screen 2](rentkar_app/assets/screenshots/screen2.jpg)
+  ![Onboarding Screen 3](rentkar_app/assets/screenshots/screen3.jpg)
+  
 - **OTP-based Mobile Number Login**: 
   - Users can log in using their mobile number and OTP sent via Firebase.
+
+  ![Login OTP Screen](rentkar_app/assets/screenshots/LoginOtp.jpg)
+  ![OTP Verification Screen](rentkar_app/assets/screenshots/otpverification.jpg)
 
 ## Technologies Used
 - **Flutter**: For building the app UI and logic.
@@ -22,30 +29,4 @@ This project was developed as part of my Flutter internship assignment. It inclu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rentkar_app.git
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Firebase Setup:**
-   - Set up Firebase for Android.
-   - Enable Phone Authentication in Firebase Console.
-
-4. **Run the App:**
-   ```bash
-   flutter run
-   ```
-
-## Contributing
-Feel free to fork the repository and create a pull request. Contributions are welcome!
-
-
-### **License**
-This project is licensed under the MIT License.
-
----
-
-Replace `yourusername` with your actual GitHub username, and you're good to go!
+   git clone https://github.com/akshita1420/rentkar_app.git
