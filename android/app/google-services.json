@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701525180141",
+    "project_id": "rentkarapp-36257",
+    "storage_bucket": "rentkarapp-36257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701525180141:android:df67ddd5e8d2f48ca816e4",
+        "android_client_info": {
+          "package_name": "com.rentkar.rentkar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsoMgTC1MIz-JpXwTiAetZ5f-cRU0ja8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
