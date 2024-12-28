@@ -33,7 +33,6 @@ This project was developed as part of my Flutter internship assignment. It inclu
 3. **Firebase Setup:**
    - Set up Firebase for Android.
    - Enable Phone Authentication in Firebase Console.
-   - Add the `google-services.json` file to `android/app`.
 
 4. **Run the App:**
    ```bash
