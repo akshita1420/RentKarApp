@@ -1,16 +1,52 @@
-# rentkar_app
+# Rentkar App - Internship Assignment
 
-A new Flutter project.
+## Overview
+This project was developed as part of my Flutter internship assignment. It includes:
+- Three visually appealing onboarding screens.
+- Integration of real mobile number login with OTP functionality using Firebase.
 
-## Getting Started
+## Features
+- **Onboarding Screens**: 
+  - Introduces users to Rentkar’s platform with smooth transitions.
+  - Features: App Introduction, Key Features, and Mission & Vision.
+  
+- **OTP-based Mobile Number Login**: 
+  - Users can log in using their mobile number and OTP sent via Firebase.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Flutter**: For building the app UI and logic.
+- **Firebase Authentication**: For OTP-based login functionality.
+- **PageView**: For creating the onboarding screens.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/rentkar_app.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Install Dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Firebase Setup:**
+   - Set up Firebase for Android.
+   - Enable Phone Authentication in Firebase Console.
+   - Add the `google-services.json` file to `android/app`.
+
+4. **Run the App:**
+   ```bash
+   flutter run
+   ```
+
+## Contributing
+Feel free to fork the repository and create a pull request. Contributions are welcome!
+
+
+### **License**
+This project is licensed under the MIT License.
+
+---
+
+Replace `yourusername` with your actual GitHub username, and you're good to go!
