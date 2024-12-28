@@ -21,20 +21,13 @@ This project was developed as part of my Flutter internship assignment. It inclu
 ## Screenshots
 Here are some screenshots of the app:
 
-- **Onboarding Screen 1**  
-  <img src="assets/screenshots/screen1.jpg" width="300"/>
-
-- **Onboarding Screen 2**  
-  <img src="assets/screenshots/screen2.jpg" width="300"/>
-
-- **Onboarding Screen 3**  
-  <img src="assets/screenshots/screen3.jpg" width="300"/>
-
-- **Login with OTP Screen**  
-  <img src="assets/screenshots/LoginOtp.jpg" width="300"/>
-
-- **OTP Verification Screen**  
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/screenshots/screen1.jpg" width="300" style="margin-right: 10px;"/>
+  <img src="assets/screenshots/screen2.jpg" width="300" style="margin-right: 10px;"/>
+  <img src="assets/screenshots/screen3.jpg" width="300" style="margin-right: 10px;"/>
+  <img src="assets/screenshots/LoginOtp.jpg" width="300" style="margin-right: 10px;"/>
   <img src="assets/screenshots/otpverification.jpg" width="300"/>
+</div>
 
 ## Setup Instructions
 
